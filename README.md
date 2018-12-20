@@ -3,7 +3,7 @@ Compatibility-based "FriendFinder" application
 
 1. Answer a survey of 10 questions - Each response is based on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
 
-2. The `server.js` file utilize the following npm packages: `express` and `path`.
+2. The `server.js` file utilizes the following npm packages: `express` and `path`.
 
 3. The `htmlRoutes.js` file contains two routes:
 
